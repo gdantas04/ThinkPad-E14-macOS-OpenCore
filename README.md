@@ -3,6 +3,9 @@
 This repository provides an **OpenCore EFI configuration** for the **Lenovo ThinkPad E14 Gen 1** to run **macOS 15 (Sequoia)**.  
 The setup is tailored to achieve near-native macOS performance while maintaining stability and usability for daily use.
 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64e1b8d6-79f8-4d54-8c8a-b61397a136c0" />
+
 ---
 
 ## 💻 Hardware Overview
